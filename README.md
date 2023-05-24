@@ -6,12 +6,12 @@ Program akan melakukan tes dari pertanyaan yang diberikan dan menghasil poin dar
 3. Qonita Sholehati Amri 122430048 Teknik Biomedis
 4. Salma Anindya Oktrina 122430034 Teknik Biomedis
 
-### Pengantar Komputer & Software
+## Pengantar Komputer & Software
 - Nama Dosen: Asep Nurul Ajiid Mustofa, S.T., M.T.
 - Nama asisten praktikum 1: Marchel Timoteus
 - Nama asistem praktikum 2: David Panondang Sinaga
 
-### Cara Kerja Program
+## Cara Kerja Program
 1. Program akan meminta tiga hal (dalam satu kata) yang membuat user bahagia. Menggunakan array, ketiga hal tersebut akan muncul dalam satu baris.
 2. Program akan meminta jawaban user dari pertanyaan yang diajukan. Terdapat 4 pilihan jawaban sehingga user memilih angka 1 - 4. Menggunakan percabangan, setiap pilihan pada pertanyaan memiliki poin masing-masing.
 3. Program akan meminta jawaban dari 10 pertanyaan.
@@ -20,7 +20,7 @@ Program akan melakukan tes dari pertanyaan yang diberikan dan menghasil poin dar
 6. Program mengajukan pertanyaan untuk mengulangi tes atau tidak. Menggunakan perulangan, maka jawaban dari user akan memberikan keputusan untuk mengulangi tes kembali atau tidak.
 7. Program selesai dijalankan.
 
-### Cara Menggunakan Program
+## Cara Menggunakan Program
 1. Akses link program running yang tersedia.
 2. Jalankan program dengan menekan tombol Run.
 3. Masukkan tiga hal yang dapat membuat user bahagia (dalam satu kata sebanyak 3 kali).
@@ -28,7 +28,7 @@ Program akan melakukan tes dari pertanyaan yang diberikan dan menghasil poin dar
 5. Akan muncul hasil tes yang telah dilakukan.
 6. Masukkan pilihan anda untuk mengulangi program dengan menjawab "ya" atau "tidak".
 7. Program selesai dijalankan.
-### Media
+## Media
 | File | Link Akses |
 | ------ | ------ |
 | Laporan | -- |

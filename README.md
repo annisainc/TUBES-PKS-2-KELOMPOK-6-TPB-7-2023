@@ -1,6 +1,6 @@
 # Program Tes Kesehatan Mental
 Program akan melakukan tes dari pertanyaan yang diberikan dan menghasil poin dari jawaban yang dipilih yang memiliki range masing-masing, kemudian akan ditentukan hasil akhirnya termasuk ke kategori mana.
-### Anggota Kelompok
+## Anggota Kelompok
 1. Annisa Indah Cahyani	122430045 Teknik Biomedis
 2. Atha Azarine 122430046 Teknik Biomedis
 3. Qonita Sholehati Amri 122430048 Teknik Biomedis

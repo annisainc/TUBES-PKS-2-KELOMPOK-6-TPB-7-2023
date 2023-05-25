@@ -33,8 +33,8 @@ Program akan melakukan tes dari pertanyaan yang diberikan dan menghasil poin dar
 ## Media
 | File | Link Akses |
 | ------ | ------ |
-| Laporan | -- |
-| Video | -- |
+| Laporan | https://drive.google.com/file/d/1tykT3WFc4Evp8OHd3Eq6h_ivM2cj5XQ6/view?usp=sharing |
+| Video | https://youtu.be/iAqU2jCemX8 |
 | Program | https://github.com/annisainc/TUBES-PKS-2-KELOMPOK-6-TPB-7-2023/blob/main/README.md |
 | Program Running | https://replit.com/@ANNISA-INDAHIND/PROGRAM-TES-KESEHATAN-MENTAL |
 | Code Program | https://onlinegdb.com/KKy_hKA8r |

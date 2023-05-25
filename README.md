@@ -40,62 +40,63 @@ Program akan melakukan tes dari pertanyaan yang diberikan dan menghasil poin dar
 | Code Program | https://onlinegdb.com/KKy_hKA8r |
 
 ## Kode Program
-#include <iostream>
-using namespace std;
 
-// Anggota-NIM
-// Annisa Indah Cahyani	122430045
-// Atha Azarine	        122430046
-// Qonita Sholehati Amri	122430048
-// Salma Anindya Oktrina	122430034
+    #include <iostream>
+    using namespace std;
 
-int main() {
-  int pilih1, pilih2, pilih3, pilih4, pilih5, pilih6, pilih7, pilih8, pilih9,
-      pilih10;
-  int poin1, poin2, poin3, poin4, poin5, poin6, poin7, poin8, poin9, poin10;
-  int total, i;
-  string pilihan;
-  string reason[3];
+    // Anggota-NIM
+    // Annisa Indah Cahyani	  122430045
+    // Atha Azarine	          122430046
+    // Qonita Sholehati Amri	122430048
+    // Salma Anindya Oktrina	122430034
 
-  do {
-    cout << "\nTES KESEHATAN MENTAL/PSIKOLOGI SEDERHANA \n";
-    cout << "KELOMPOK 6 TPB 7 2023 PKS 2 \n";
-    cout << "-------------------------------------------\n\n";
-    cout << "\nSebelum memulai, apa 3 hal (dalam satu kata) yang bisa membuat "
-            "anda bahagia? \n";
-    for (i = 1; i <= 3; i++) {
-      cout << "Hal ke- " << i << " : ";
-      cin >> reason[i - 1];
-    }
-    for (i = 0; i < 3; i++) {
-      cout << reason[i] << " ";
-    }
-    cout << endl;
-    cout << "Selalu ingat, bahwa ketiga hal ini bisa memberikan rasa bahagia "
-            "pada anda :) = "
-         << endl;
-    cout << endl;
-    cout << "\n-------------------------------------------\n";
-    cout << "\nTes Psikologi Sederhana : Pertanyaan 1 \n";
-    cout << "-------------------------------------------\n\n";
-    cout << "BAGAIMANA PERASAANMU SAAT INI? \n";
-    cout << "1. SEDIH\t";
-    cout << "2. RESAH/KHAWATIR\n\n";
-    cout << "3. KESEPIAN\t";
-    cout << "4. SENANG/GEMBIRA\n";
-    cout << "\n-------------------------------------------\n";
-    cout << "\n\nPilih (1-4): ";
-    cin >> pilih1;
-    if (pilih1 == 1) {
-      poin1 = 4;
-    } else if (pilih1 == 2) {
-      poin1 = 2;
-    } else if (pilih1 == 3) {
-      poin1 = 3;
-    }
-    if (pilih1 == 4) {
-      poin1 = 1;
-    }
+    int main() {
+      int pilih1, pilih2, pilih3, pilih4, pilih5, pilih6, pilih7, pilih8, pilih9,
+          pilih10;
+      int poin1, poin2, poin3, poin4, poin5, poin6, poin7, poin8, poin9, poin10;
+      int total, i;
+      string pilihan;
+      string reason[3];
+
+      do {
+        cout << "\nTES KESEHATAN MENTAL/PSIKOLOGI SEDERHANA \n";
+        cout << "KELOMPOK 6 TPB 7 2023 PKS 2 \n";
+        cout << "-------------------------------------------\n\n";
+        cout << "\nSebelum memulai, apa 3 hal (dalam satu kata) yang bisa membuat "
+                "anda bahagia? \n";
+        for (i = 1; i <= 3; i++) {
+          cout << "Hal ke- " << i << " : ";
+          cin >> reason[i - 1];
+        }
+        for (i = 0; i < 3; i++) {
+          cout << reason[i] << " ";
+        }
+        cout << endl;
+        cout << "Selalu ingat, bahwa ketiga hal ini bisa memberikan rasa bahagia "
+                "pada anda :) = "
+             << endl;
+        cout << endl;
+        cout << "\n-------------------------------------------\n";
+        cout << "\nTes Psikologi Sederhana : Pertanyaan 1 \n";
+        cout << "-------------------------------------------\n\n";
+        cout << "BAGAIMANA PERASAANMU SAAT INI? \n";
+        cout << "1. SEDIH\t";
+        cout << "2. RESAH/KHAWATIR\n\n";
+        cout << "3. KESEPIAN\t";
+        cout << "4. SENANG/GEMBIRA\n";
+        cout << "\n-------------------------------------------\n";
+        cout << "\n\nPilih (1-4): ";
+        cin >> pilih1;
+        if (pilih1 == 1) {
+          poin1 = 4;
+        } else if (pilih1 == 2) {
+          poin1 = 2;
+        } else if (pilih1 == 3) {
+          poin1 = 3;
+        }
+        if (pilih1 == 4) {
+          poin1 = 1;
+        }
 
     cout << "\nTes Psikologi Sederhana : Pertanyaan 2 \n";
     cout << "-------------------------------------------\n\n";
